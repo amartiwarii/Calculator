@@ -1,5 +1,7 @@
 # Python Tkinter Calculator
 
+Name: Parth Pancholi
+Regsitration number: 25BEC10011
 A desktop calculator application built using **Python** and the **Tkinter GUI framework**. This program provides a graphical interface that allows users to perform basic arithmetic calculations along with square and square root operations.
 
 The project demonstrates how to build a simple GUI-based application in Python using object-oriented programming and Tkinter widgets.
