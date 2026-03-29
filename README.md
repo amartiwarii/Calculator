@@ -35,7 +35,7 @@ No external libraries are required.
 ## Project Structure
 
 ```
-calculator-project/
+calculator/
 │
 ├── main.py
 └── README.md
@@ -64,13 +64,13 @@ sudo apt install python3-tk
 1. Clone the repository
 
 ```
-git clone https://github.com/amartiwarii/tkinter-calculator.git
+git clone https://github.com/amartiwarii/Calculator.git
 ```
 
 2. Navigate to the project directory
 
 ```
-cd tkinter-calculator
+cd Calculator
 ```
 
 3. Verify Python installation
@@ -86,7 +86,7 @@ python --version
 Run the calculator with the following command:
 
 ```
-python calculator.py
+python main.py
 ```
 
 A calculator window will open on your screen.
